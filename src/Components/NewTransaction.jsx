@@ -41,13 +41,13 @@ const NewTransaction = ({ addTransaction }) => {
       <Typography variant="h5">New Transaction</Typography>
       <TextField
         value={text}
-        label="Enter Expense Info."
+        label="Enter Transaction Info."
         onChange={(e) => setText(e.target.value)}
         id="a"
       />
       <TextField
         value={amount}
-        label="Enter Amount"
+        label="Enter Transaction Amount with + or -"
         onChange={(e) => setAmount(e.target.value)}
         id="b"
       />
