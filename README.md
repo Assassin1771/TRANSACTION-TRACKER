@@ -6,9 +6,9 @@ User can record both income and expenses here and thus also see what is their ba
 A handy application which everyone should have.
 <br>
 <br>
-Visit the Website : https://weather-app-assassin1771.netlify.app/
+Visit the Website : https://transaction-tracker-assassin1771.netlify.app/
 
-<img src="1.png">
+<img src="Screenshot (408).png">
 <br>
 <br>
 <br>
@@ -35,8 +35,6 @@ http://localhost:3000
 <br>
 <br>
 <br>
-This is one of the basic projects which every Web Developer desires to build.
+A handy project, so that no one can have any problem while managing their finances.
 <br>
-I built this project using React JS, ES6, CSS3 and html5.
-<br>
-The website is fully responsive and compatible on all devices.
+I built this project using React JS and Material UI.
