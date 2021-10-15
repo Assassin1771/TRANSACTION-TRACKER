@@ -54,7 +54,7 @@ function App() {
 
   return (
     <div className="App">
-      <Typography className={classes.header}>Expense Tracker</Typography>
+      <Typography className={classes.header}>Transaction Tracker</Typography>
       <Box className={classes.component}>
         <Box>
           <Balance transactions={transactions} />
